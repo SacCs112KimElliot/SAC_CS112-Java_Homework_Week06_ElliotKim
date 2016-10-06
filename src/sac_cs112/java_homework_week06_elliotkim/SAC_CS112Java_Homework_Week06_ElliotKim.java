@@ -105,3 +105,4 @@ public class SAC_CS112Java_Homework_Week06_ElliotKim
 }
 
 
+// Please see if you can revise to use aavriable to index ArraysToHoldValues instead of always 1.
