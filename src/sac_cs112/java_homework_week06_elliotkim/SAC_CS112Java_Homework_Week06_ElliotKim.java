@@ -1,5 +1,5 @@
 /*
- * SAC_CS112-Java_Week06_Lab06_ElliotKim
+ * SAC_CS112-Java_Homework_Week06_ElliotKim
  * Objective:   Implement an Odd/Even game
  *                  Roll a dice to get a number between 1-6
  *                  Ask users to guess Odd or Even
